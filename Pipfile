@@ -13,6 +13,7 @@ pytz = "==2018.3"
 "psycopg2" = "*"
 gunicorn = "*"
 django-heroku = "*"
+whitenoise = "*"
 
 
 [dev-packages]
