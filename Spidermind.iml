@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/cv" />
+        <option name="settingsModule" value="settings.py" />
+        <option name="manageScript" value="manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/dist/docs" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/dist/docs/axes" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/dist/docs/axes/radial" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/dist/docs/axes/cartesian" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/dist/docs/notes" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/dist/docs/charts" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/dist/docs/general" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/dist/docs/general/interactions" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/dist/docs/developers" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/dist/docs/configuration" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/dist/docs/getting-started" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/charts" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/charts/bar" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/charts/area" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/charts/line" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/charts/scatter" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/legend" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/scales" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/scales/time" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/scales/linear" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/scales/logarithmic" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/advanced" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/tooltips" />
+        <option value="$MODULE_DIR$/cv/static/cv/assets/node_modules/chart.js/samples/scriptable" />
+        <option value="$MODULE_DIR$/cv/templates/cv" />
+        <option value="$MODULE_DIR$/blog/templates/blog" />
+      </list>
+    </option>
+  </component>
+</module>
