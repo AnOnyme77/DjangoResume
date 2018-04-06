@@ -5,7 +5,7 @@ from django.http import HttpResponse, Http404
 import datetime
 import itertools
 from django.contrib.auth import authenticate, login as auth_login
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 from django.shortcuts import redirect
 from django.contrib.auth.decorators import login_required
 
