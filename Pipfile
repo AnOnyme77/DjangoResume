@@ -12,6 +12,7 @@ django = "==2.0"
 pytz = "==2018.3"
 "psycopg2" = "*"
 gunicorn = "*"
+django-heroku = "*"
 
 
 [dev-packages]
